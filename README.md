@@ -1,2 +1,2 @@
 ## Mi Dibujo Asignado
-![Foto de mi dibujo](dibujo.png)
+![Foto de mi dibujo](1%20(2).jpg)
